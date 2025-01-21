@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.o
+
+# IDE specific files
+.vscode/
+.vs/
+
+# Debug files
+*.pdb
+*.ilk
+
+# Other build artifacts
+*.obj
+*.out 
